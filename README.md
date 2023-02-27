@@ -16,7 +16,7 @@ If you're interested to collaborate or just chat, find me at [linkedin](https://
 
 <a href="http://www.github.com/novikov-ai"><img src="https://github-readme-stats-novikov-ai.vercel.app/api?username=novikov-ai&show_icons=true&hide=&count_private=true&title_color=B0413E&text_color=ED9B40&icon_color=B0413E&bg_color=000000&hide_border=true&show_icons=true" alt="novikov-ai's GitHub stats" width="640"/></a>
 
-<a href="http://www.github.com/novikov-ai"><img src="https://github-readme-streak-stats.herokuapp.com/?user=novikov-ai&stroke=ED9B40&background=000000&ring=B0413E&fire=B0413E&currStreakNum=ED9B40&currStreakLabel=B0413E&sideNums=ED9B40&sideLabels=ED9B40&dates=ED9B40&hide_border=true" width="640"/></a>
+<a href="http://www.github.com/novikov-ai"><img src="https://github-readme-streak-stats-cdzbq8lxb-novikov-ai.vercel.app/?user=novikov-ai&stroke=ED9B40&background=000000&ring=B0413E&fire=B0413E&currStreakNum=ED9B40&currStreakLabel=B0413E&sideNums=ED9B40&sideLabels=ED9B40&dates=ED9B40&hide_border=true" width="640"/></a>
 
 <a href="https://www.github.com/novikov-ai" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/novikov-ai?logo=github&style=for-the-badge&color=B0413E&labelColor=000000" /></a>
