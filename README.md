@@ -6,8 +6,11 @@
 * 👨‍💻  Backend Software Engineer at product company with construction background
 * 🚀  Every day I help people by building the largest classified-site in the world - [Avito](http://avito.ru)
 * 💡  Now I'm passionate about [Go](https://go.dev/), but a few years ago it was [.NET](https://dotnet.microsoft.com/en-us/) (C# especially)
-* 🏗  Also I'm BIM [certified](https://www.credly.com/badges/e66b0679-4d81-4b9d-bbf8-915b99bc06b1/public_url) professional with 5+ years experience
-* ♟  I do love chess and you could play with me [there](https://lichess.org/@/ainovikov)
+* 🏗  Also I'm BIM [certified](https://www.credly.com/badges/e66b0679-4d81-4b9d-bbf8-915b99bc06b1/public_url) professional with 5+ years experience:
+  * developed a neat [way](https://github.com/novikov-ai/revit-basic-command) to create an ExternalCommand 
+  * developed a new [approach](https://github.com/novikov-ai/revit-ribbon-builder) to create a RibbonPanel
+  * developed an useful [tool](https://github.com/novikov-ai/revit-sp-transfer) for constants creation from Shared Parameters File
+* ♟  I do love chess and you could challenge me [there](https://lichess.org/@/ainovikov)
 
 ### Collab
 If you're interested to collaborate or just chat, find me at [linkedin](https://www.linkedin.com/in/novikov-ai)
