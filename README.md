@@ -16,13 +16,3 @@
 ## Collaboration
 
 If you are interested in collaborating or just want to chat, please connect with me on [LinkedIn](https://www.linkedin.com/in/novikov-ai).
-
-## Stats
-
-![novikov-ai's GitHub stats](https://github-readme-stats-novikov-ai.vercel.app/api?username=novikov-ai&show_icons=true&hide=&count_private=true&title_color=B0413E&text_color=ED9B40&icon_color=B0413E&bg_color=000000&hide_border=true&show_icons=true)
-
-![novikov-ai's GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=novikov-ai&stroke=ED9B40&background=000000&ring=B0413E&fire=B0413E&currStreakNum=ED9B40&currStreakLabel=B0413E&sideNums=ED9B40&sideLabels=ED9B40&dates=ED9B40&hide_border=true)
-
-### Developer Roadmaps Progress
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/649c4f03d99c9d67319d4f87?variant=dark)](https://roadmap.sh)
