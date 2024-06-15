@@ -16,3 +16,7 @@
 ## Collaboration
 
 If you are interested in collaborating or just want to chat, please connect with me on [LinkedIn](https://www.linkedin.com/in/novikov-ai).
+
+## Blog
+
+Check out [my tech blog](https://t.me/time2code) in telegram [RU]!
