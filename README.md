@@ -19,4 +19,4 @@ If you are interested in collaborating or just want to chat, please connect with
 
 ## Blog
 
-Check out [my tech blog](https://t.me/time2code) in telegram [RU]!
+Check out [my tech blog](https://t.me/time2code) in telegram!
